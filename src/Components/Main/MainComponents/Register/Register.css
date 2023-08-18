@@ -1,0 +1,11 @@
+input{display: block;padding: 10px 20px;margin: 10px 0px;border-radius: 20px;width: 70%;outline: none;}
+.formData{margin-bottom: 50px;padding-top: 50px;}
+.linkforLogin{color: rgb(0, 107, 168);cursor: pointer;}
+.box1{background-color: blue;color: white;}
+.box2{background-color: rgb(202, 202, 202);color: black;}
+.box3{background-color: black;color: white;}
+.linkBox{padding: 10px;border: 1px solid black;border-radius: 20px;}
+.box h3{padding: 10px;text-align: center;cursor: pointer;}
+.imageCode{width: 20%;color: white;background-color: grey;padding: 20px;border-radius: 20px;text-align: center;}
+.pad1{width: fit-content;margin: 10px;}
+.radioBox, .checkBox{margin: 20px 0px;}

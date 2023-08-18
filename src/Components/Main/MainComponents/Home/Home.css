@@ -1,0 +1,5 @@
+.home{margin: 50px;padding: 20px;}
+.banner{display: flex;justify-content: center;}
+.banner1, .productList{width: 90vw;height: 30vh;border-radius: 10px;background-color: grey;padding: 20px;margin-top: 20px;}
+.productList{height: 50vh;}
+
